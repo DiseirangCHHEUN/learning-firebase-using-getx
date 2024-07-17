@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783937998188",
+    "project_id": "learning-firebase-using-getx",
+    "storage_bucket": "learning-firebase-using-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783937998188:android:01121a8e14b4ada00bb749",
+        "android_client_info": {
+          "package_name": "com.diseirang.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowE0W10r2R7i35Tv8rldIudFTWYpDWuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
